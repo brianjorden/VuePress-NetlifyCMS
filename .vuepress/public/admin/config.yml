@@ -15,7 +15,6 @@ collections:
         label: "Settings"
         file: "settings.json"
         fields:
-          - {name: thing, widget: string}
           - {name: more, widget: number}
           - {name: "other", widget: string}
   - name: "Home" # Used in routes, e.g., /admin/collections/blog
