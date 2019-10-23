@@ -9,8 +9,10 @@ publish_mode: editorial_workflow
 
 collections:
   - name: "Settings"
+    label: "Settings"
     files:
       - name: "Settings"
+        label: "Settings"
         file: "settings.json"
         fields:
           - {name: thing, widget: string}
